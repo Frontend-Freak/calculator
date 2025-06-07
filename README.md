@@ -1,1 +1,1 @@
-https://frontend-freak.github.io/calculator-v2/
+https://frontend-freak.github.io/calculator/
